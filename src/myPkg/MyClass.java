@@ -4,7 +4,7 @@ public class MyClass {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hi");
+		System.out.println("My Name is Bhushan");
 
 		System.out.println("Bye");
 
