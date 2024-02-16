@@ -6,7 +6,7 @@ public class MyClass {
 
 		System.out.println("My Name is Bhushan");
 
-		System.out.println("Bye");
+		System.out.println("What are you doing");
 
 		System.out.println("Hey");
 
