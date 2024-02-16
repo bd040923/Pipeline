@@ -12,6 +12,11 @@ public class MyClass {
 
 		System.out.println("Wassup");
 
+		
+		System.out.println("Hey World");
+
+		System.out.println("Wassup World");
+
 	}
 
 }
